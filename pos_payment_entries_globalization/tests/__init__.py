@@ -1,1 +1,0 @@
-from . import test_pos_payment_entries_globalization
